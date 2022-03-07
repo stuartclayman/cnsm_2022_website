@@ -1,0 +1,67 @@
+- name: Home
+  link: index.html
+  status: enabled
+  
+- name: Committees
+  link: committees.html
+  status: enabled
+  
+- name: Call for Papers
+  link: cfp.html
+  status: enabled
+  
+- name: Call for Tutorials
+  link: cft.html
+  status: disabled
+  
+- name: Call for Workshops
+  link: cfw.html  
+  status: disabled
+  
+- name: Call for Demos
+  link: cfd.html  
+  status: disabled
+  
+- name: Registration
+  link: registration.html
+  status: disabled
+  
+- name: Virtual
+  link: virtual.html
+  status: disabled
+  
+- name: Program
+  link: program.html
+  status: disabled
+  
+- name: Keynotes
+  link: keynotes.html
+  status: disabled
+  
+- name: Panel
+  link: panel.html
+  status: disabled
+  
+- name: Tutorials
+  link: tutorial.html
+  status: disabled
+  
+- name: Workshops
+  link: workshops.html
+  status: disabled
+
+- name: Meeting
+  link: meeting.html
+  status: disabled
+  
+- name: Authors
+  link: authors.html
+  status: disabled
+  
+- name: Patrons
+  link: patrons.html
+  status: disabled
+  
+- name: Locality
+  link: about_thessaloniki.html
+  status: enabled

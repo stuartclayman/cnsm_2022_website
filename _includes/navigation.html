@@ -1,0 +1,15 @@
+
+                    <ul data-uk-toggle="media: @s; cls: uk-navbar-nav uk-padding-remove; mode: media" class="uk-nav uk-nav-primary uk-padding-small">
+                      
+                      {% comment %} List of menu items in _data/navigation.yml {% endcomment %} 
+                      {% for item in site.data.navigation %}
+                        {% if item.status == "enabled" %}
+                          <li {% if page.url == item.link %}class="uk-active"{% endif %}>
+                              <a href="{{ item.link }}">{{ item.name }}</a>
+                          </li>
+                      
+                        {% endif %}
+                      {% endfor %}
+
+                    </ul>
+

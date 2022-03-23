@@ -16,7 +16,7 @@
   
 - name: Call for Workshops
   link: cfw.html  
-  status: disabled
+  status: enabled
   
 - name: Call for Demos
   link: cfd.html  

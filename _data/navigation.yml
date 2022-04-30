@@ -20,7 +20,7 @@
   
 - name: Call for Demos
   link: cfd.html  
-  status: disabled
+  status: enabled
   
 - name: Registration
   link: registration.html

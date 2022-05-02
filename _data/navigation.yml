@@ -60,7 +60,7 @@
   
 - name: Patrons
   link: patrons.html
-  status: disabled
+  status: enabled
   
 - name: Locality
   link: about_thessaloniki.html

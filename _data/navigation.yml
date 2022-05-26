@@ -6,6 +6,10 @@
   link: committees.html
   status: enabled
   
+- name: Authors
+  link: authors.html
+  status: enabled
+  
 - name: Call for Papers
   link: cfp.html
   status: enabled
@@ -52,10 +56,6 @@
 
 - name: Meeting
   link: meeting.html
-  status: disabled
-  
-- name: Authors
-  link: authors.html
   status: disabled
   
 - name: Patrons

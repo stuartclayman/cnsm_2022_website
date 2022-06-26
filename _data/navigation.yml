@@ -48,7 +48,7 @@
   
 - name: Tutorials
   link: tutorial.html
-  status: disabled
+  status: enabled
   
 - name: Workshops
   link: workshops.html

@@ -16,7 +16,7 @@
   
 - name: Call for Tutorials
   link: cft.html
-  status: enabled
+  status: disabled
   
 - name: Call for Workshops
   link: cfw.html  

@@ -51,7 +51,7 @@
   status: enabled
   
 - name: Workshops
-  link: workshops.html
+  link: workshop_HiPNet.html
   status: enabled
 
 - name: Meeting

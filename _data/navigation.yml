@@ -40,7 +40,7 @@
   
 - name: Keynotes
   link: keynotes.html
-  status: disabled
+  status: enabled
   
 - name: Panel
   link: panel.html

@@ -28,7 +28,7 @@
   
 - name: Registration
   link: registration.html
-  status: disabled
+  status: enabled
   
 - name: Virtual
   link: virtual.html

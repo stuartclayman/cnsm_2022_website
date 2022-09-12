@@ -12,7 +12,7 @@
   
 - name: Call for Papers
   link: cfp.html
-  status: enabled
+  status: disabled
   
 - name: Call for Tutorials
   link: cft.html
@@ -36,7 +36,7 @@
   
 - name: Program
   link: program.html
-  status: disabled
+  status: enabled
   
 - name: Keynotes
   link: keynotes.html
